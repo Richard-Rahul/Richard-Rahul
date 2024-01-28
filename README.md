@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Richard-Rahul](https://github.com/Richard-Rahul)
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS & AI Tools**
 
 - 📫 How to reach me **codingeffect@gmail.com**
 
